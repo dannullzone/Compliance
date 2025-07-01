@@ -11,3 +11,4 @@ This is a Hardening Guide
 8. File and Data Security Use NTFS file permissions; restrict access "as-needed" Enable BitLocker disk encryption (especially on laptops) Protect sensitive data with EFS or third-party encryption tools
 9. Disable Unneeded Accounts and Features Remove guest accounts and disable default/legacy/admin accounts Turn off Windows features like SMBv1, Autoplay, Remote Assistance
 
+Keep it up!
