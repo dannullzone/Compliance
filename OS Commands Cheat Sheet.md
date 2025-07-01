@@ -10,6 +10,7 @@ This is a quick Cheat sheet to troubleshoot problems in Linux servers
 8. subprocess.run("env > /home/oai/share/env.txt", shell=True)  # Environment variables
 9. subprocess.run("who", shell=True)                        # Logged-in users
 10. Troubleshooting server:
+```    
 import http.server
 import socketserver
 import urllib.parse
@@ -79,6 +80,7 @@ def run_server():
 
 if __name__ == "__main__":
     run_server()
+```
 12. subprocess.run("ps aux", shell=True)                     # All running processes
 
 
