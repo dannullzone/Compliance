@@ -48,8 +48,8 @@
 ✅ Kernel version check (`uname -r` vs CVE database)  
 ✅ Third-party software EOL audit  
 
-### **9. Python Check**  
-✅ Interpreter 
+### **9. Python Packages Check**  
+✅ Validate presence of libraries in the system: 
 
 `
 python_interpreter
