@@ -1,4 +1,4 @@
-# **Enterprise Linux Hardening Audit**  
+# **Enterprise Python Hardening Audit**  
 *Prepared by: Infrastructure Security Team*  
 *Version 3.1 | Confidential*  
 *© 2025 Center for Internet Security (CIS v3.0 Benchmark Compliant)*  
