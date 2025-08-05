@@ -50,6 +50,7 @@
 
 ### **9. Python Check**  
 ✅ Interpreter 
+
 `
 python_interpreter
 {
